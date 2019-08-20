@@ -1,0 +1,48 @@
+body {
+  background-image: url("assets/images/prism.png");
+}
+
+/* main content area */
+.maincontent {
+  background: white;
+}
+
+
+
+/* all pages for navbar*/
+
+.navbar {
+  padding-left: 200px;
+  padding-right: 200px;
+  background-color: gray;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+}
+
+
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+/* contact page only */
+form {
+  width: 960px;
+  margin: auto;
+}
+
+
+
+
+
+
+
