@@ -7,6 +7,28 @@ body {
   background: white;
 }
 
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  right: 0;
+  left: 0;
+  text-align: center;
+}
+
+
+/*about me */
+#main {
+  width: 960px;
+  background-color: white;
+}
+
+.para {
+  display: inline;
+}
+
 
 
 /* all pages for navbar*/
