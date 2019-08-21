@@ -2,41 +2,25 @@ body {
   background-image: url("assets/images/prism.png");
 }
 
-/* main content area */
-.maincontent {
-  background: white;
-}
-
+/* footer for all pages */
 .footer {
   position: fixed;
   bottom: 0;
   width: 100%;
   height: 60px;
-  background-color: white;
+  background-color: #6996AD;
   right: 0;
   left: 0;
   text-align: center;
 }
 
 
-/*about me */
-#main {
-  width: 960px;
-  background-color: white;
-}
-
-.para {
-  display: inline;
-}
-
-
-
-/* all pages for navbar*/
+/*navbar for all pages*/
 
 .navbar {
   padding-left: 200px;
   padding-right: 200px;
-  background-color: gray;
+  background-color: #6996AD;
 }
 
 .navbar-brand {
@@ -50,10 +34,36 @@ a {
 }
 
 
+h1 {
+  margin-left: 70px;
+  margin-bottom: 30px;
+}
+
+
+
+/*about me */
+#main {
+  width: 960px;
+  background-color: white;
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.imgcenter {
+  text-align: center;
 }
 
 /* contact page only */
@@ -61,6 +71,52 @@ form {
   width: 960px;
   margin: auto;
 }
+
+/* contact page only */
+.maincontent {
+  background: white;
+  width: 960px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+/* portfolio content */
+#portcontent {
+  background: white;
+  width: 960px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.text {
+    position: relative;
+    text-align: center;
+    bottom: -150px;
+    background-color: #6996AD ;
+    width: auto;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
